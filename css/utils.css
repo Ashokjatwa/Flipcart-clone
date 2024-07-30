@@ -1,0 +1,32 @@
+
+
+.flex-all-centre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    padding: 5px 10px;
+    color: white;
+    background-color:#2874f0;
+    border: 2px solid white;
+    border-radius: 7px;
+    cursor: pointer;
+}
+.my-1{
+    margin: 5px 0;
+
+}
+.my-2{
+    margin: 26px 0;
+   
+/*font-family: 'Lato', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif; */
+}
+.text-centre{
+     text-align: center;
+     font-family: 'Barlow', sans-serif;
+     font-family: 'Gabarito', cursive;
+}
